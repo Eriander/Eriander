@@ -1,4 +1,0 @@
-- 👋 Hi, I’m @Eriander
-- 👀 I’m interested in playing games, dancing, acting, play piano & guitar.
-- 🌱 I’m currently learning Python and buildind website.
-- 📫 How to reach me eriander3135@gmail.com or @03_yunu
